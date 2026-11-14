@@ -33,3 +33,12 @@ The lecture videos are available on Hung-Yi Lee's [youtube channel](https://www.
 * HW13 : Network Compression
 * HW14 : Life-Long Learning
 * HW15 : Meta Learning
+
+---
+
+## 我的作业 / My Homework
+
+- [HW01 — COVID-19 Cases Prediction (Regression)](HW01/HW01_solution.ipynb)
+  - [Solution write-up](HW01/SOLUTION.md)
+  - Kaggle `ml2021spring-hw1`: private **0.88478** / public **0.87955**
+  - Kernel: <https://www.kaggle.com/code/aviator22/hw1-final>
