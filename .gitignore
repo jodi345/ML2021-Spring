@@ -1,1 +1,12 @@
 .DS_Store
+
+# --- 本地训练产物(自己加的) ---
+*.pth
+*.pt
+*.ckpt
+*.h5
+*.npy
+*.zip
+data/
+__pycache__/
+.ipynb_checkpoints/
