@@ -36,6 +36,12 @@ The lecture videos are available on Hung-Yi Lee's [youtube channel](https://www.
 
 ---
 
+## AI 协作协议
+
+- [AGENT.md](AGENT.md) — 用 AI 做作业的固定流程、判断阈值、交付规范（每次开工先读这份，不用重复交代）
+
+---
+
 ## 我的作业 / My Homework
 
 - [HW01 — COVID-19 Cases Prediction (Regression)](HW01/HW01_solution.ipynb)
