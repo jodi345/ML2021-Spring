@@ -39,6 +39,7 @@ The lecture videos are available on Hung-Yi Lee's [youtube channel](https://www.
 ## AI 协作协议
 
 - [AGENT.md](AGENT.md) — 用 AI 做作业的固定流程、判断阈值、交付规范（每次开工先读这份，不用重复交代）
+- [模型训练心得](docs/model-training-notes.md) — 训练决策树（bias / optimization / overfitting / mismatch）与 HW01、HW02 实证
 
 ---
 

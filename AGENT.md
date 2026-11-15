@@ -40,6 +40,8 @@
 
 **顺序不能换。** 跳过 S2 直接调参 = 不知道调的是不是空气；跳过 S3 直接改模型 = 在猜。
 
+S3 的分支判断（bias / optimization / overfitting / mismatch）按 [docs/model-training-notes.md](docs/model-training-notes.md) 那张决策树走，每个动作前先说清「现在在哪一支、证据是什么」。
+
 ---
 
 ## 3. 判断阈值（用这个代替直觉）
