@@ -42,3 +42,9 @@ The lecture videos are available on Hung-Yi Lee's [youtube channel](https://www.
   - [Solution write-up](HW01/SOLUTION.md)
   - Kaggle `ml2021spring-hw1`: private **0.88478** / public **0.87955**
   - Kernel: <https://www.kaggle.com/code/aviator22/hw1-final>
+
+- [HW02 — Phoneme Classification](HW02/HW02_solution.ipynb)
+  - [Solution write-up](HW02/SOLUTION.md) · [速览](HW02/README.md)
+  - 单模型: public **0.74719** / private **0.74657**
+  - 七模型集成: public **0.75869** / private **0.75778**（strong baseline 0.76023）
+  - Kernel: <https://www.kaggle.com/code/aviator22/ml2021spring-hw2-v7a>

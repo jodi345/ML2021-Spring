@@ -1,6 +1,6 @@
 # HW2-1 Phoneme Classification — 解题记录
 
-对应课程作业：[HW02-1.ipynb](../HW02-1.ipynb) / [HW02.pdf](../HW02.pdf)
+对应课程作业：[HW02-1.ipynb](HW02-1.ipynb) / [HW02.pdf](HW02.pdf)
 比赛：[ml2021spring-hw2](https://www.kaggle.com/competitions/ml2021spring-hw2)
 
 **最终成绩：public 0.75869 / private 0.75778**（单模型最好 0.74719 / 0.74657）
@@ -204,11 +204,11 @@ kaggle kernels output aviator22/<kernel> -p out
 
 ```
 HW02/
-├── HW02-1.ipynb          课程原始 sample code
-├── HW02-2.ipynb          Hessian 理论作业（本文不涉及）
-├── HW02.pdf              作业说明
-└── solution/
-    ├── README.md         本文件
-    ├── hw2_single_model.ipynb   单模型（public 0.74719）
-    └── hw2_ensemble.ipynb       七模型集成（public 0.75869）
+├── HW02-1.ipynb        课程原始 sample code（分类）
+├── HW02-2.ipynb        Hessian 理论作业（本文不涉及）
+├── HW02.pdf            作业说明
+├── README.md           速览：结果 / 文件 / 关键点
+├── SOLUTION.md         本文件：完整 write-up
+├── HW02_solution.ipynb 单模型（public 0.74719）
+└── HW02_ensemble.ipynb 七模型集成（public 0.75869）
 ```
