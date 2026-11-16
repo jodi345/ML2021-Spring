@@ -9,7 +9,7 @@ Kaggle: [ml2021spring-hw2](https://www.kaggle.com/competitions/ml2021spring-hw2)
 | Simple baseline（官方线） | 0.68334 | — |
 | Strong baseline（官方线） | 0.76023 | — |
 | 官方 notebook 原样跑（Sigmoid / Adam 1e-4 / 20 epoch） | 0.68917 | 0.68869 |
-| 单模型 v3（ReLU + BN + 窗口 + Dropout） | 0.73203 | 0.73073 |
+| **单模型 v3（ReLU + BN + 窗口 + Dropout）← 全程最大提升 +4.29 点** | **0.73203** | **0.73073** |
 | **单模型（最终，全量数据 + TTA）** | **0.74719** | **0.74657** |
 | **七模型集成（最终提交）** | **0.75869** | **0.75778** |
 
